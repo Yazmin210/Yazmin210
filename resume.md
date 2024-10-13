@@ -1,5 +1,4 @@
 Yazmin Alvarado
 Education: 
-High School: James Madison High School (2020 - 2023)
-High School: Glassboro High School (2023 - 2024)
-College: Northeastern University (2024- 2028)
+College: Northeastern University (Sept. 2024- Apr. 2028)
+		Major: Computing and Law 
